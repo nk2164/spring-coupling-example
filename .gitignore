@@ -1,0 +1,7 @@
+/.idea/
+/spring-coupling-example.iml
+/bin/
+/lib/
+/out/
+/invoicedb.dat.properties
+/invoicedb.dat.script
